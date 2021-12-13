@@ -1,16 +1,9 @@
-# delivery_app
+(Obs: In construction)
 
-A new Flutter project.
+This is a Mobile Application to exercise my knowledge in Flutter Mobile.
 
-## Getting Started
+It's a delivery app and i had used the concepts of widgets and Dart to realize this exercise.
 
-This project is a starting point for a Flutter application.
+Here we Have a previous:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/31519661/145891833-da71e561-b9f3-4ae6-a0da-2609a90de463.png)
